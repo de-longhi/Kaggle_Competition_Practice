@@ -1,7 +1,7 @@
 # Concepts
 <hr/>
 
-### The following is a summary of the concepts I had to study to replicate the solutions. I am not including any concepts I am already familiar with. I also include references.
+### The following is a summary of the concepts I had to study to replicate the solutions. I am not including any concepts I am already familiar with. I also include references and titles of concepts I wish to familiarize myself with later on. I will test all the concepts on a dataset similar to the MNIST-dataset.
 
 <hr/>
 
@@ -19,5 +19,10 @@ $$
 
 
 <b> Kolmogorov-Arnold Networks: </b>
+
+<h3>Dataset for test model available <a href=https://www.kaggle.com/datasets/datamunge/sign-language-mnist>here.</a></h3>
+
 ## References
-### 
+<ol>
+<li></li>
+</ol>
